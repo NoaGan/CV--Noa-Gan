@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5rem;
+}
+.top-container{
+    background-color: #E8F9FD;
+    position: relative;
+    padding-top: 6.25rem;
+}
+.profile-picture{
+    height: 12.5rem;
+    border-radius: 50%;
+}
+.sub-title{
+    font-size: 2.5rem;
+    color: #6EB2E4;
+    font-weight: normal;
+    margin-top: 0;
+}
+h1{
+    margin: 2.5rem auto 0 auto;
+    font-family: 'Damion', cursive;
+    font-size: 5.625rem;
+    color: #0b365a;
+}
+h2{
+    font-family: 'Playfair Display', serif;
+    color: #66BFBF;
+    font-weight: normal;
+    font-size: 2.5rem;
+}
+h3{
+    font-family: 'Playfair Display', serif;
+    color:  #11999E;
+}
+.bottom-cloud {
+    position: absolute;
+    bottom: 18.75rem;
+    left: 18.75rem;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+.middle-container{
+    padding-top: 5rem;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.code-picture{
+    width: 25%;
+    border-radius: 10%;
+    float: left;
+    margin-right: 30px;
+    padding-top: 1rem;
+}
+.cook-picture{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+hr{
+   border: dotted 0.5rem;
+   border-bottom: none;
+    color: #cedada;
+    width: 5%;
+    margin: 6.25rem auto;
+}
+.contact-me{
+    width: 50%;
+    margin: 0 auto;
+}
+.mail-img{
+    width: 25%;
+    display: block;
+    margin: 0 auto;
+}
+.btn{
+    background-color: #11cdd4;
+    color: white;
+    padding: 0.5rem;
+    font-size: 1.3rem;
+    border-radius: 25px;
+    display: block;
+    width: 25%;
+    margin: 2.5rem auto;
+    text-decoration: none;
+
+}
+.btn:hover{
+    background-color: #2bc4ad;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 2rem 0;
+    color: rgb(246, 246, 246);
+}
+.footer-text{
+    margin-bottom: 0;
+}
+.footer-link{
+    color: rgb(194, 192, 192);
+    text-decoration: none;
+    margin-left: 1.5rem;
+}
+
+.footer-link:hover{
+    color: white;
+}
+
